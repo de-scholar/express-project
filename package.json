@@ -1,0 +1,36 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "This project is for studying express (basics and andvanced)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -r esm ./server/app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-scholar/express-project.git"
+  },
+  "keywords": [
+    "git",
+    "nodejs",
+    "es6",
+    "babel",
+    "express"
+  ],
+  "author": "de-scholar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/de-scholar/express-project/issues"
+  },
+  "homepage": "https://github.com/de-scholar/express-project#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
