@@ -26,7 +26,7 @@
   "homepage": "https://github.com/de-scholar/express-project#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "eslint": "^6.5.0",
